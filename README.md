@@ -29,13 +29,13 @@
 - [Code](/Bank-Churn-Prediction) | [Notebook](link) | [Deployed Demo](link)  
 
 ### 2. New York Real Estate Market Analytics Dashboard
-**Goal**: Analyze sales performance and identify trends for a retail superstore.  
+**Goal**: Analyze property market and areas of intrest in the New York real estate market.  
 **Tech Stack**: Power BI, DAX, Data Modeling.  
 **Key Insights**:  
-- Created interactive visualizations showing a **20% YoY growth** in electronics sales.  
-- Reduced time-to-insight for stakeholders by 50%.  
+- Overview of the type of properties and the price in different areas of New York City.  
+- Reduced time-to-insight for clients by 50%.  
 **Links**:  
-- [Dashboard Screenshots](/Superstore-Sales-Dashboard) | [Power BI File](link)  
+- [Dashboard Screenshots](/New York Real Estate Market-Dashboard) | [Power BI File](link)  
 
 
 
@@ -53,7 +53,7 @@
 
 ## 🧩 How to Use This Repository
 ### Prerequisites
-- Python 3.8+
+- Python 3.9+
 - Git
 - Jupyter Notebook
 
