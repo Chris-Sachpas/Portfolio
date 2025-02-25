@@ -25,8 +25,8 @@
 **Key Insights**:  
 - Identified that customers with low credit scores and high balances are 3x more likely to churn.  
 - Achieved **85% accuracy** using optimized hyperparameters.  
-**Links**:  
-- [Code](/Bank-Churn-Prediction) | [Notebook](link) | [Deployed Demo](link)  
+
+ 
 
 ### 2. New York Real Estate Market Analytics Dashboard
 **Goal**: Analyze property market and areas of intrest in the New York real estate market.  
@@ -35,7 +35,15 @@
 - Overview of the type of properties and the price in different areas of New York City.  
 - Reduced time-to-insight for clients by 50%.  
 **Links**:  
-- [Dashboard Screenshots](/New York Real Estate Market-Dashboard) | [Power BI File](link)  
+
+
+  ### 3. Startup Data Analysis SQL
+  **Goal**: Analyze Startup data in regards with country of origin, funding cycles, investments, year etc
+  **Tech Stack**: SQL, PostgreSQL, DBeaver
+  **Key Insights**:
+  - Overview of the information about new startups and their domain, funding cycles, projected value etc, worldwide
+  - Advanced Analysis about startup trends
+ 
 
 
 
@@ -46,7 +54,7 @@
 - [Data Science Bootcamp]](https://www.credential.net/b4439a44-0ba1-473a-a3a3-c0860c3a1f42#acc.gIXTc5yS) | [Big Blue Data Academy] | Oct 2024 - Jan 2025    
 
 ### Currently Learning
-- **Advanced SQL** (Window Functions, Query Optimization)  
+- **AI Agents** (Hugging Face Ai Agents Course)  
 - **MLOps** (Docker, FastAPI, Model Monitoring)  
 
 ---
